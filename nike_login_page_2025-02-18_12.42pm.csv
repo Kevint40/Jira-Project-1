@@ -1,0 +1,7 @@
+﻿"Key","Issue Type","Parent","Summary","Status","Assignee","Sprint","Start date","Inferred start date","Due date","Inferred due date","Issue color"
+"NLP-1","Epic","","Basic Overview","In Progress","","NLP Sprint 1","2025/02/17","2025/02/17","2025/03/03","2025/03/03","purple"
+"NLP-2","Story","NLP-1","Fix  login feature","In Progress","","NLP Sprint 1","","2025/02/18","","2025/03/04","purple"
+"NLP-3","Bug","NLP-1","code issue","Done","","NLP Sprint 1","","2025/02/18","","2025/03/04","purple"
+"NLP-4","Task","NLP-1","Rewrite code","Done","","NLP Sprint 1","","2025/02/18","","2025/03/04","purple"
+"NLP-5","Task","NLP-1","Static Testing","In Progress","","NLP Sprint 1","","2025/02/18","","2025/03/04","purple"
+"NLP-6","Task","NLP-1","Functionality Testing","In Progress","","NLP Sprint 1","","2025/02/18","","2025/03/04","purple"
